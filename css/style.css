@@ -1,0 +1,13 @@
+main {
+    min-height: calc(100vh - 160px);
+  }
+
+  img.card-img-top{
+    height: 40%;
+    width: 40%;
+  }
+
+  div.card.mb-3{
+    height: 50%;
+    width: 45%;
+  }
